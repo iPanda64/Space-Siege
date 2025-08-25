@@ -1,0 +1,29 @@
+# Treat C# scripts as C#
+*.cs linguist-language=C#
+
+# Ignore Unity ShaderLab files
+*.shader linguist-detectable=false
+*.cginc linguist-detectable=false
+
+# Ignore YAML-based Unity files
+*.unity linguist-detectable=false
+*.prefab linguist-detectable=false
+*.mat linguist-detectable=false
+*.anim linguist-detectable=false
+*.controller linguist-detectable=false
+*.mask linguist-detectable=false
+*.meta linguist-detectable=false
+*.asmdef linguist-detectable=false
+*.spriteatlas linguist-detectable=false
+
+# Ignore editor and package files
+*.dll linguist-detectable=false
+*.exe linguist-detectable=false
+*.pdb linguist-detectable=false
+
+# Ignore Unity cache folders
+[Ll]ibrary/** linguist-detectable=false
+[Tt]emp/** linguist-detectable=false
+[Oo]bj/** linguist-detectable=false
+UserSettings/** linguist-detectable=false
+Logs/** linguist-detectable=false

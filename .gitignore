@@ -8,6 +8,7 @@
 UserSettings/
 
 # Visual Studio / IDE files
+.vsconfig
 .vs/
 *.csproj
 *.sln

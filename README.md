@@ -1,4 +1,30 @@
-# Space-Siege
+# 🚀 Space-Siege
+Space Siege is a Unity-powered 3D game inspired by the timeless classic Space Invaders.
+<table width="100%">
+  <tr>
+    <td width="50%">
+     <img src="https://github.com/iPanda64/Space-Siege/blob/main/Screenshots/1.png" />
+    </td>
+    <td width="50%">
+      <img src="https://github.com/iPanda64/Space-Siege/blob/main/Screenshots/2.png" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/iPanda64/Space-Siege/blob/main/Screenshots/3.png" />
+    </td>
+    <td width="50%">
+     <img src="https://github.com/iPanda64/Space-Siege/blob/main/Screenshots/4.png" />
+    </td>
+  </tr>
+</table>
+
+## 🕹️ Features
+- 10 distinct levels with increasing difficulty  
+- 4 unique enemy types with different attack patterns  
+- Fully 3D models for enemies, player ship, and environments  
+- Power-ups that enhance your abilities throughout
+  
 ## 📥 Installation
 ### Option 1: Windows Build (Recommended)
 Recommended option for fast standard instalation:
